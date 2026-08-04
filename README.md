@@ -210,3 +210,6 @@ Random Forest:
 
 \- Model deployment
 
+Linear Regression and Random Forest performed similarly, with Random Forest 
+slightly outperforming (R²=0.950 vs 0.945), suggesting the relationship 
+is largely linear with some minor non-linear patterns.
